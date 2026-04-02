@@ -50,14 +50,6 @@ The dashboard is designed to:
 
 ---
 
-## **Usage**
-
-1. Open the Excel file in Microsoft Excel (2016 or later recommended).  
-2. Use the **slicers** to filter by year, category, or quarter.  
-3. Explore **charts, pie charts, and maps** to get insights.  
-4. Review **top and bottom products** to make strategic business decisions.  
-
----
 
 ## **Conclusion**
 

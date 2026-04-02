@@ -6,7 +6,7 @@ Sales Analysis Dashbourd Using excel
 
 This project contains a **Sales Analysis Dashboard** built entirely in **Microsoft Excel**, designed to provide insights into sales performance across **products, categories, quantities, and regions**. It helps decision-makers track trends, identify top-performing products, and visualize regional sales data.  
 
----
+--- 
 
 ## **Features**
 
